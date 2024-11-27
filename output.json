@@ -1,0 +1,1239 @@
+{
+    "document_tree": {
+        "materials": [
+            {
+                "material_type": "Metals",
+                "material_items": [
+                    {
+                        "name": "Al",
+                        "visual_properties": {
+                            "color": [
+                                160,
+                                160,
+                                164
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 2.82e-06,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "Au",
+                        "visual_properties": {
+                            "color": [
+                                243,
+                                231,
+                                54
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 2.44e-06,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "Co",
+                        "visual_properties": {
+                            "color": [
+                                155,
+                                152,
+                                245
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 6.24e-06,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "CoSi",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                128,
+                                128
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 1.7e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "Cu",
+                        "visual_properties": {
+                            "color": [
+                                153,
+                                84,
+                                34
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 1.72e-06,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "Ni",
+                        "visual_properties": {
+                            "color": [
+                                155,
+                                152,
+                                245
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 6.99e-06,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "NiPt",
+                        "visual_properties": {
+                            "color": [
+                                148,
+                                156,
+                                200
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 3.8e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "NiPtSi",
+                        "visual_properties": {
+                            "color": [
+                                160,
+                                160,
+                                164
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 4e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "NiSi",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                128,
+                                128
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 1.7e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "Ta",
+                        "visual_properties": {
+                            "color": [
+                                139,
+                                136,
+                                60
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 9.5e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "TaN",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                128,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 0.006,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "Ti",
+                        "visual_properties": {
+                            "color": [
+                                134,
+                                134,
+                                134
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 5.56e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "TiAl",
+                        "visual_properties": {
+                            "color": [
+                                192,
+                                192,
+                                192
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 1.3e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "TiN",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                128,
+                                128
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 3e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "W",
+                        "visual_properties": {
+                            "color": [
+                                50,
+                                66,
+                                60
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 5.6e-06,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    },
+                    {
+                        "name": "WSi",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                128,
+                                128
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Conductor",
+                        "conductor": {
+                            "bulk_resistivity": 5e-05,
+                            "metal_work_function": 4.6,
+                            "size_correction": "None",
+                            "exponential": {
+                                "correction_resistivity": 0,
+                                "decay_length": 0
+                            }
+                        },
+                        "contact_resistivity": []
+                    }
+                ]
+            },
+            {
+                "material_type": "Nitrides",
+                "material_items": [
+                    {
+                        "name": "Si3N4_Comp",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                255,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 7.0
+                    },
+                    {
+                        "name": "Si3N4_Tens",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                128,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 7.0
+                    },
+                    {
+                        "name": "Si3N4_LPCVD",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                128,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 7.5
+                    },
+                    {
+                        "name": "Si3N4_MLD",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                255,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 7.0
+                    },
+                    {
+                        "name": "Si3N4_PECVD",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                128,
+                                128
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 7.0
+                    }
+                ]
+            },
+            {
+                "material_type": "Organics",
+                "material_items": [
+                    {
+                        "name": "ODL",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                35,
+                                60
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    },
+                    {
+                        "name": "Resist",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                0,
+                                128
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    },
+                    {
+                        "name": "XPS",
+                        "visual_properties": {
+                            "color": [
+                                190,
+                                0,
+                                190
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    },
+                    {
+                        "name": "OHBrush",
+                        "visual_properties": {
+                            "color": [
+                                255,
+                                170,
+                                127
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    },
+                    {
+                        "name": "PMMA",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                0,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    },
+                    {
+                        "name": "PS",
+                        "visual_properties": {
+                            "color": [
+                                255,
+                                0,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    },
+                    {
+                        "name": "Polymer",
+                        "visual_properties": {
+                            "color": [
+                                207,
+                                37,
+                                88
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    }
+                ]
+            },
+            {
+                "material_type": "Oxides",
+                "material_items": [
+                    {
+                        "name": "HfOx",
+                        "visual_properties": {
+                            "color": [
+                                255,
+                                255,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 25.0
+                    },
+                    {
+                        "name": "SiO2_BOX",
+                        "visual_properties": {
+                            "color": [
+                                190,
+                                225,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 4.0
+                    },
+                    {
+                        "name": "SiO2_HDP",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                255,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 4.0
+                    },
+                    {
+                        "name": "SiO2_HTO",
+                        "visual_properties": {
+                            "color": [
+                                85,
+                                170,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 4.0
+                    },
+                    {
+                        "name": "SiO2_LTO",
+                        "visual_properties": {
+                            "color": [
+                                23,
+                                255,
+                                197
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 4.0
+                    },
+                    {
+                        "name": "SiO2_PECVD",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                163,
+                                208
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 4.0
+                    },
+                    {
+                        "name": "SiO2_SiCOH",
+                        "visual_properties": {
+                            "color": [
+                                66,
+                                255,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 2.8
+                    },
+                    {
+                        "name": "SiO2_TEOS",
+                        "visual_properties": {
+                            "color": [
+                                33,
+                                207,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 3.5
+                    },
+                    {
+                        "name": "SiO2_Thermal",
+                        "visual_properties": {
+                            "color": [
+                                0,
+                                0,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 3.9
+                    },
+                    {
+                        "name": "ULK",
+                        "visual_properties": {
+                            "color": [
+                                71,
+                                193,
+                                245
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 2.5
+                    }
+                ]
+            },
+            {
+                "material_type": "Silicon",
+                "material_items": [
+                    {
+                        "name": "SiARC",
+                        "visual_properties": {
+                            "color": [
+                                149,
+                                0,
+                                149
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 20.0
+                    },
+                    {
+                        "name": "SiC",
+                        "visual_properties": {
+                            "color": [
+                                255,
+                                85,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 9.7
+                    },
+                    {
+                        "name": "SiGe",
+                        "visual_properties": {
+                            "color": [
+                                128,
+                                0,
+                                128
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 15.0
+                    },
+                    {
+                        "name": "Si_Amorph",
+                        "visual_properties": {
+                            "color": [
+                                193,
+                                0,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 11.7
+                    },
+                    {
+                        "name": "Si_Xtal",
+                        "visual_properties": {
+                            "color": [
+                                255,
+                                0,
+                                0
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 11.7
+                    }
+                ]
+            },
+            {
+                "material_type": "III_V",
+                "material_items": [
+                    {
+                        "name": "GaAs",
+                        "visual_properties": {
+                            "color": [
+                                255,
+                                170,
+                                255
+                            ],
+                            "transparency": 0,
+                            "visibility": true
+                        },
+                        "physical_properties": {
+                            "density": "Mass Density",
+                            "mass_density": {
+                                "chemical_formula": "",
+                                "density": 0
+                            }
+                        },
+                        "material_type": "Dielectric",
+                        "dielectric_constant": 12.9
+                    }
+                ]
+            }
+        ],
+        "dopants": [
+            {
+                "dopant_items": [
+                    {
+                        "name": "As",
+                        "dopant_type": "N-Type",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 3.56,
+                                "max_diffusion_coefficient": 0.32
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    },
+                    {
+                        "name": "P",
+                        "dopant_type": "N-Type",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Oxides/",
+                                "activation_energy": 1.1,
+                                "max_diffusion_coefficient": 1.59e-11
+                            },
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 3.69,
+                                "max_diffusion_coefficient": 10.5
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    },
+                    {
+                        "name": "Sb",
+                        "dopant_type": "N-Type",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 3.95,
+                                "max_diffusion_coefficient": 5.6
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    }
+                ]
+            },
+            {
+                "dopant_items": [
+                    {
+                        "name": "B",
+                        "dopant_type": "P-Type",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Oxides/",
+                                "activation_energy": 3.06,
+                                "max_diffusion_coefficient": 0.00028
+                            },
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 3.69,
+                                "max_diffusion_coefficient": 10.5
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    },
+                    {
+                        "name": "Ga",
+                        "dopant_type": "P-Type",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 3.5,
+                                "max_diffusion_coefficient": 3.6
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    },
+                    {
+                        "name": "In",
+                        "dopant_type": "P-Type",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 3.9,
+                                "max_diffusion_coefficient": 16.5
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    }
+                ]
+            },
+            {
+                "dopant_items": [
+                    {
+                        "name": "Ge",
+                        "dopant_type": "Neutral",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 3.92,
+                                "max_diffusion_coefficient": 0.35
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    },
+                    {
+                        "name": "C",
+                        "dopant_type": "Neutral",
+                        "diffusion_properties": [
+                            {
+                                "material": "/Silicon/",
+                                "activation_energy": 2.92,
+                                "max_diffusion_coefficient": 0.33
+                            }
+                        ],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    },
+                    {
+                        "name": "Xe",
+                        "dopant_type": "Neutral",
+                        "diffusion_properties": [],
+                        "atomic_number": 0,
+                        "atomic_weight": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
