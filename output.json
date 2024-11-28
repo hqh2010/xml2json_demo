@@ -30,9 +30,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "Au",
@@ -60,9 +60,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "Co",
@@ -90,9 +90,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "CoSi",
@@ -120,9 +120,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "Cu",
@@ -150,9 +150,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "Ni",
@@ -180,9 +180,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "NiPt",
@@ -210,9 +210,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "NiPtSi",
@@ -240,9 +240,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "NiSi",
@@ -270,9 +270,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "Ta",
@@ -300,9 +300,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "TaN",
@@ -330,9 +330,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "Ti",
@@ -360,9 +360,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "TiAl",
@@ -390,9 +390,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "TiN",
@@ -420,9 +420,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "W",
@@ -450,9 +450,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     },
                     {
                         "name": "WSi",
@@ -480,9 +480,9 @@
                             "exponential": {
                                 "correction_resistivity": 0,
                                 "decay_length": 0
-                            }
-                        },
-                        "contact_resistivity": []
+                            },
+                            "contact_resistivity": []
+                        }
                     }
                 ]
             },

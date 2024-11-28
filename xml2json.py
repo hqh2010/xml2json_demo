@@ -96,8 +96,8 @@ for item in root.findall(".//*[@___Type='MaterialGroup']"):
                     surfaceCorrection_value) == 0 else float(surfaceCorrection_value)
                 conductor_dict["exponential"]["decay_length"] = 0 if len(meanFreePath_value) == 0 else float(
                     meanFreePath_value)
+                conductor_dict["contact_resistivity"] = []
                 material_item["conductor"] = conductor_dict
-                material_item["contact_resistivity"] = []
             else:
                 material_item["material_type"] = "Dielectric"
                 dielectricConstant = type_tag.find(".//dielectricConstant_")
